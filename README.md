@@ -58,16 +58,6 @@ A storage management and file sharing platform that lets users effortlessly uplo
 and many more, including the latest **React 19**, **Next.js 15** and **Appwrite** features alongside code architecture and
 reusability
 
-## <a name="screenshots">🔗 Screenshots </a>
-![homepage](/public/screenshots/homepage.png)
-![dashboard](/public/screenshots/dashboard.png)
-![documents-page](/public/screenshots/documents-page.png)
-
-### Screenshots For Small Screens :
-![mobile-homepage](/public/screenshots/mobile-homepage.png)
-![mobile-dashboard](/public/screenshots/mobile-dashboard.png)
-![mobile-navigation](/public/screenshots/mobile-navigation.png)
-
 ## <a name="setup">🤸 Local Setup</a>
 
 Follow these steps to set up the project locally on your machine.
