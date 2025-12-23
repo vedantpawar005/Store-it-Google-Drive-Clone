@@ -2,8 +2,6 @@
 
 Welcome to **StoreIt** — a powerful, easy-to-use web application that allows you to upload, share, and manage your documents seamlessly. Whether you're looking for something similar to Google Drive or Dropbox, StoreIt has you covered! ✉️⬇️
 
-![StoreIt Dashboard](https://github.com/user-attachments/assets/3e294dae-9da7-4eed-86cb-7bb7601fc512)
-
 ## 🚀 Features
 - **Upload Documents**: Add any type of document to your personal storage space.
 - **Share Files**: Share documents with other users via email. 📤
