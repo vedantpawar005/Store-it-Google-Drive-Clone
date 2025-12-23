@@ -57,7 +57,6 @@ Follow these steps to set up StoreIt on your local machine:
 1. **Sign Up and Login**
    - Enter your email and receive an OTP for secure login.
 ![SignUp Screen](https://github.com/user-attachments/assets/69607580-4e87-4a04-b557-7025e107cce0)
-![OTP Screen](https://github.com/user-attachments/assets/ce2228eb-ba20-462e-bfd6-8ba2ff932e37)
 ![Login Screen](https://github.com/user-attachments/assets/d32d9878-ea1e-4767-b355-1f4a17414c6d)
 
 
@@ -87,9 +86,5 @@ Future updates may include:
 ## ✨ Contributing
 We welcome contributions! Feel free to fork the project and submit pull requests.
 
-## 📍 License
-This project is licensed under the MIT License.
-
----
 
 Thank you for checking out **StoreIt**! Feel free to explore, share, and manage your documents effortlessly. 📄✌️
