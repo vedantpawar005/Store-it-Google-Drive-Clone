@@ -22,8 +22,8 @@ Follow these steps to set up StoreIt on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/storeit.git
-   cd storeit
+   git clone https://github.com/vedantpawar005/Store-it-Google-Drive-Clone.git
+   cd Store-it-Google-Drive-Clone
    ```
 
 2. **Install dependencies**:
