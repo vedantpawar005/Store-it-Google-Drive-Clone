@@ -19,8 +19,8 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🔗 [Screenshots](#screenshots)
 4. 🤸 [Local Setup](#setup)
+
 
 ## <a name="introduction">🤖 Introduction</a>
 
