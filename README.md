@@ -83,8 +83,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```
-git clone https://github.com/aditya-narayan-sahoo/store-it.git
-cd store-it
+git clone https://github.com/vedantpawar005/Store-it-Google-Drive-Clone.git
+cd Store-it-Google-Drive-Clone
 ```
 
 **Installation**
